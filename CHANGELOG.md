@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Safe-Security/praxios/compare/v1.0.1...v1.0.2) (2021-09-30)
+
+
+### Bug Fixes
+
+* handle empty string for PROXY_HOST and PROXY_PORT ([#4](https://github.com/Safe-Security/praxios/issues/4)) ([cce2462](https://github.com/Safe-Security/praxios/commit/cce2462cc9fa0478734411410948ea6c6d1a6477))
+
 ## [1.0.1](https://github.com/Safe-Security/praxios/compare/v1.0.0...v1.0.1) (2021-09-30)
 
 

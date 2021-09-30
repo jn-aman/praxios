@@ -7,7 +7,7 @@ var tunnel = require("tunnel");
 exports.tunnel = tunnel;
 var _a = process.env, PROXY_HOST = _a.PROXY_HOST, PROXY_PORT = _a.PROXY_PORT, PROXY_USERNAME = _a.PROXY_USERNAME, PROXY_PASSWORD = _a.PROXY_PASSWORD;
 var isProxyDefined = function () {
-    return PROXY_HOST !== undefined && PROXY_PORT !== undefined;
+    return !!PROXY_HOST && !!PROXY_PORT;
 };
 var getProxyAuth = function () {
     if (PROXY_USERNAME && PROXY_PASSWORD) {
