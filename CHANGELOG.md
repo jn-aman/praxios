@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Safe-Security/praxios/compare/v1.0.2...v1.0.3) (2021-10-01)
+
+
+### Bug Fixes
+
+* move tunnel types to dependencies ([#9](https://github.com/Safe-Security/praxios/issues/9)) ([5a17491](https://github.com/Safe-Security/praxios/commit/5a1749124a8dc01ceb94b1a33e42f476d476455b)), closes [#8](https://github.com/Safe-Security/praxios/issues/8)
+
 ## [1.0.2](https://github.com/Safe-Security/praxios/compare/v1.0.1...v1.0.2) (2021-09-30)
 
 
