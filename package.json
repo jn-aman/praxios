@@ -24,6 +24,7 @@
     "scripts": {
         "build": "tsc",
         "test": "jest",
+        "test:coverage:jest": "jest --silent --ci --json --coverage --testLocationInResults --outputFile=\"report.json\" --forceExit",
         "prepare": "husky install"
     }
 }
