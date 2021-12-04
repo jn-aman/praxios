@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Safe-Security/praxios/compare/v1.0.3...v1.1.0) (2021-12-04)
+
+
+### Features
+
+* **actions:** added coverage.yml ([#10](https://github.com/Safe-Security/praxios/issues/10)) ([d372cbd](https://github.com/Safe-Security/praxios/commit/d372cbdea52aac342f24693ff659529a2320e5cc))
+
 ## [1.0.3](https://github.com/Safe-Security/praxios/compare/v1.0.2...v1.0.3) (2021-10-01)
 
 
