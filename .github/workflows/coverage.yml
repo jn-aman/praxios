@@ -20,7 +20,7 @@ jobs:
               with:
                   github-token: ${{ secrets.GITHUB_TOKEN }}
                   package-manager: yarn
-                  test-script: yarn test:coverage:jest
+                  test-script: yarn run test:coverage:jest
                   annotations: none
               env:
                 CI: true
