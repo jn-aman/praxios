@@ -16,7 +16,7 @@ jobs:
             - name: Install dependencies
               run: npx ci
             - name: Tests on ${{ matrix.node-version }}
-              uses: artiomtr/jest-coverage-report-action@v2.0-rc.5
+              uses: artiomtr/jest-coverage-report-action@v2.0-rc.6
               with:
                   github-token: ${{ secrets.GITHUB_TOKEN }}
                   package-manager: yarn
